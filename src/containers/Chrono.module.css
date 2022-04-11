@@ -1,0 +1,10 @@
+p {
+  font-size: 3em;
+  text-align: center;
+  padding: 0.1em;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
